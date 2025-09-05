@@ -1,4 +1,5 @@
-D 'eventbaseline': Eventbaseline Correct event study after xthdidregress Use eventbaseline With STATA 19
+D 'felsdvreg': Fit a linear model with two high-dimensional fixed effects Use felsdvreg With STATA 19
 D
-F eventbaseline.ado
-F eventbaseline.sthlp
+F felsdv_group.ado
+F felsdvreg.ado
+F felsdvreg.hlp
